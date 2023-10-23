@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "question_aval"
+  site-url: "https://bcnbru.github.io/question_aval"
+  description: "teste nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/bcnbru/question_aval"
